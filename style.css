@@ -656,6 +656,7 @@ form {
     grid-template-columns: 100%;
     padding: 0 100px;
     margin-bottom: 100px;
+    gap: 20px;
   }
 }
 
@@ -672,4 +673,8 @@ form {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+}
+
+textarea {
+  width: 350px !important;
 }
