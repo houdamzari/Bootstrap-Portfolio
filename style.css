@@ -658,3 +658,18 @@ form {
     margin-bottom: 100px;
   }
 }
+
+.card-img {
+  max-width: 500px;
+}
+
+.btn {
+  width: fit-content;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
