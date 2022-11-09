@@ -12,6 +12,10 @@
   animation-delay: 1s;
 }
 
+.btn {
+  width: fit-content;
+}
+
 @keyframes logo-load {
   0% {
     transform: rotate(0deg);
@@ -662,10 +666,6 @@ form {
 
 .card-img {
   max-width: 500px;
-}
-
-.btn {
-  width: fit-content;
 }
 
 .card-body {
