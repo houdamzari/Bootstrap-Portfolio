@@ -327,7 +327,7 @@ h1 {
   transform: rotate(180deg);
 }
 
-.btn {
+/* .btn {
   padding: 20px;
   width: fit-content;
   height: 24px;
@@ -342,7 +342,7 @@ h1 {
   align-items: center;
   letter-spacing: 0.03em;
   transition: all 0.4s ease-in-out;
-}
+} */
 
 .btn:hover {
   background-color: #6070ff;
